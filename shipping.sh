@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash  #Shipping depends on mysql db so first run the mysql.sh
 
 DATE=$(date +%F)
 LOGSDIR=/tmp
