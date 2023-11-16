@@ -6,7 +6,7 @@ IMAGE_ID=ami-03265a0778a880afb
 #SECURITY_GROUP_ID=sg-0b34d8689bd628e3f
 SECURITY_GROUP_ID=sg-079bfb9b54023a1c5
 DOMAIN_NAME=jcglobalit.online
-HOSTED_ZONE_ID=Z02954502A6LVQUVQ4MZL
+HOSTED_ZONE_ID=Z02954502A6LVQUVQ4MZL  
 
 # if mysql or mongodb instance_type should be t3.medium , for all others it is t2.micro
 
